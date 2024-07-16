@@ -6,6 +6,7 @@ export default {
       colors: {
         mainBg: "hsl(217, 54%, 11%)",
         cardBg: "hsl(216, 50%, 16%)",
+        menuBg: "hsl(216, 50%, 23%)",
         line: "hsl(215, 32%, 27%)",
         softBlue: "hsl(215, 51%, 70%)",
       },
