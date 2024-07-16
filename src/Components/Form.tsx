@@ -19,7 +19,7 @@ export default function Form() {
           ))}
         </div>
 
-        <button className="p-2 bg-cardBg w-[25%] self-center text-softBlue rounded-[0.5rem]">
+        <button className="p-2 bg-cardBg w-[25%] self-center text-softBlue rounded-[0.5rem] hover:text-cardBg hover:bg-orange-200 duration-200">
           Submit
         </button>
       </form>
