@@ -1,6 +1,6 @@
 export default function Form() {
   return (
-    <div className=" bg-menuBg/40 w-4/5  flex flex-col p-7 gap-[5rem] rounded-[1rem] shadow-[0_3px_10px_rgb(0,0,0,0.5)] border border-gray-700 backdrop-blur-md">
+    <div className=" bg-menuBg/40 w-4/5  flex flex-col p-7 gap-[5rem] rounded-[1rem] shadow-[0_3px_10px_rgb(0,0,0,0.5)] border border-white backdrop-blur-md">
       <header className=" flex items-center justify-center">
         <h1 className=" text-5xl font-bold text-cyan-300">Form</h1>
       </header>
