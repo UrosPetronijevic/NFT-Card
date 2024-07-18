@@ -3,7 +3,7 @@ import profilePic from ".././assets/image-avatar.png";
 
 export default function Card() {
   return (
-    <div className=" bg-cardBg  w-3/5 flex flex-col p-7 gap-5 rounded-[1rem]">
+    <div className=" bg-cardBg/70  w-3/5 flex flex-col p-7 gap-5 rounded-[1rem] shadow-[0_3px_10px_rgb(0,0,0,0.5)] border border-gray-700 backdrop-blur-md">
       <img src={NftImg} className=" rounded-lg" />
       <h1 className=" text-cyan-300 font-bold text-2xl">Equilibrium #3429</h1>
       <p className="text-softBlue">
