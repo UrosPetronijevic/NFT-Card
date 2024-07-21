@@ -10,6 +10,9 @@ export default {
         line: "hsl(215, 32%, 27%)",
         softBlue: "hsl(215, 51%, 70%)",
       },
+      boxShadow: {
+        "custom-cyan": "0 0 35px cyan",
+      },
     },
   },
   plugins: [],

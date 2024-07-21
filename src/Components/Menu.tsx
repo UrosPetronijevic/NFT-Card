@@ -1,4 +1,5 @@
 import Blob from "../assets/movidmo.gif";
+import TextBox from "./TextBox";
 
 export default function Menu() {
   return (
@@ -19,7 +20,7 @@ export default function Menu() {
             <li>{e}</li>
           ))}
         </ul>
-        <div className="h-[1fr]"></div>
+        <TextBox />
         <div className="w-full bg-white/30 h-[5%] rounded-b-[1rem]"></div>
       </div>
     </div>
